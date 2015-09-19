@@ -28,3 +28,5 @@ print(exponente)
 
 modulo = c % a
 print(modulo)
+
+# Creo que ya no se hacen las divisiones flotantes
